@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2d85b45af6f8b34b81ff179edba1073, type: 3}
+  m_Name: DeckData-5
+  m_EditorClassIdentifier: Assembly-CSharp::ScriptableObjects.DeckData
+  deckName: Deck 5
+  cards:
+  - {fileID: 11400000, guid: 934e304e9d708304090a98763a9211c9, type: 2}
+  - {fileID: 11400000, guid: 9ec08da02738b8e43a4ce5370293f3fd, type: 2}
+  - {fileID: 11400000, guid: 05b9840bc5beca9499e730c1105d7c1f, type: 2}
+  - {fileID: 11400000, guid: 87b8b0e0d74235042b2f8aa8edc42c9b, type: 2}
+  - {fileID: 11400000, guid: dde1763b6ebc6e2448690c38d2cbcb24, type: 2}
+  - {fileID: 11400000, guid: 8471f9680c99b5242920570973edc096, type: 2}
