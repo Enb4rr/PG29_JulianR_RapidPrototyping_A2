@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27ff13bf5bd4ce049a59965319dec2a5, type: 3}
+  m_Name: PlayerInventory
+  m_EditorClassIdentifier: Assembly-CSharp::ScriptableObjects.Inventory
+  <OwnedCards>k__BackingField: []
+  <OwnedDecks>k__BackingField:
+  - {fileID: 11400000, guid: 52f278c4145f42b4582fcc5e1859cb46, type: 2}
+  - {fileID: 11400000, guid: dd506ddf449b8c6408771010b5520812, type: 2}
+  - {fileID: 11400000, guid: 5829bf502cde01348b8417ed82bc01ef, type: 2}
+  - {fileID: 11400000, guid: 4fd25f220ab3c04438e3f6d6cd32bf06, type: 2}
+  - {fileID: 11400000, guid: 15e08c3aa0df35847a8483d479c62b3d, type: 2}
+  - {fileID: 11400000, guid: 877987484e96ee54a8d10a57443c7000, type: 2}
+  - {fileID: 11400000, guid: b04a5fa6f7ece7049a73bff132d613cd, type: 2}
+  - {fileID: 11400000, guid: bbbdca5617c1e0c488c67f9e7c672714, type: 2}
+  - {fileID: 11400000, guid: b2e50f0ddfbb32d459b7ef6a427aa0ff, type: 2}
+  - {fileID: 11400000, guid: 90642152a9c880841a03c6de804158aa, type: 2}

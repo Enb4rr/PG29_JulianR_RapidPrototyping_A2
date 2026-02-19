@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e78be32614bd24aa9d2ba1faecff98, type: 3}
+  m_Name: Card_08
+  m_EditorClassIdentifier: Assembly-CSharp::ScriptableObjects.Card
+  <CardName>k__BackingField: Leviathan
+  <Icon>k__BackingField: {fileID: 1699492449, guid: 92b7d1b06f7c9e649ac7e170012bf51e, type: 3}
+  <Health>k__BackingField: 6
+  <Power>k__BackingField: 8
+  <ManaCost>k__BackingField: 5
+  <ParentCards>k__BackingField: []
+  <SynergeticCards>k__BackingField: []

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e78be32614bd24aa9d2ba1faecff98, type: 3}
+  m_Name: Card_27
+  m_EditorClassIdentifier: Assembly-CSharp::ScriptableObjects.Card
+  <CardName>k__BackingField: Siren
+  <Icon>k__BackingField: {fileID: 286291962, guid: 27124ac3713d6524eae5c3ad4be9b141, type: 3}
+  <Health>k__BackingField: 4
+  <Power>k__BackingField: 8
+  <ManaCost>k__BackingField: 4
+  <ParentCards>k__BackingField: []
+  <SynergeticCards>k__BackingField: []
