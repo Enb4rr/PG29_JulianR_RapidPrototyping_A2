@@ -12,7 +12,52 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27ff13bf5bd4ce049a59965319dec2a5, type: 3}
   m_Name: PlayerInventory
   m_EditorClassIdentifier: Assembly-CSharp::ScriptableObjects.Inventory
-  <OwnedCards>k__BackingField: []
+  <OwnedCards>k__BackingField:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   <OwnedDecks>k__BackingField:
   - {fileID: 11400000, guid: 52f278c4145f42b4582fcc5e1859cb46, type: 2}
   - {fileID: 11400000, guid: dd506ddf449b8c6408771010b5520812, type: 2}
