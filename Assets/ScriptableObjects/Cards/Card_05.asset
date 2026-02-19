@@ -17,5 +17,15 @@ MonoBehaviour:
   <Health>k__BackingField: 6
   <Power>k__BackingField: 6
   <ManaCost>k__BackingField: 3
-  <ParentCards>k__BackingField: []
-  <SynergeticCards>k__BackingField: []
+  <ParentCards>k__BackingField:
+  - {fileID: 11400000, guid: 4907ffb1aa077ae45963f37a3107e77b, type: 2}
+  - {fileID: 11400000, guid: 2a8cd34f197d9e94787f1829e01dba7a, type: 2}
+  - {fileID: 11400000, guid: 0645ea4bcaf05244c830c3b5ba2f6e79, type: 2}
+  - {fileID: 11400000, guid: 4cb2cbe41e554d74b9e172dc6fb9b7f8, type: 2}
+  - {fileID: 11400000, guid: 3d5c467a3cfe69649acf5055e11ca3c6, type: 2}
+  - {fileID: 11400000, guid: 8d91dfea3a0c80248b06f39fcb62d492, type: 2}
+  <SynergeticCards>k__BackingField:
+  - {fileID: 11400000, guid: 0645ea4bcaf05244c830c3b5ba2f6e79, type: 2}
+  - {fileID: 11400000, guid: 50cd2053ddc44d24e9a4ee857397bed9, type: 2}
+  - {fileID: 11400000, guid: 2a8cd34f197d9e94787f1829e01dba7a, type: 2}
+  - {fileID: 11400000, guid: d28baacdacb79354983345824ce3698a, type: 2}
